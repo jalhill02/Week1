@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Week1_Challeges\Week1_Challeges\obj\Debug\Week1_Challeges.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Week1_Challeges\Week1_Challeges\obj\Debug\Week1_Challeges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Week1_Challeges\Week1_Challeges\bin\Debug\Week1_Challeges.exe.config
+C:\ElevenFiftyProjects\Week1_Challeges\Week1_Challeges\bin\Debug\Week1_Challeges.exe
+C:\ElevenFiftyProjects\Week1_Challeges\Week1_Challeges\bin\Debug\Week1_Challeges.pdb
+C:\ElevenFiftyProjects\Week1_Challeges\Week1_Challeges\obj\Debug\Week1_Challeges.exe
+C:\ElevenFiftyProjects\Week1_Challeges\Week1_Challeges\obj\Debug\Week1_Challeges.pdb
